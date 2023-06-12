@@ -1,0 +1,6 @@
+#How often should the items teleport per second?
+speed: 4
+#Names that items could have, a random one is chosen.
+names:
+  - hallo
+  - test
